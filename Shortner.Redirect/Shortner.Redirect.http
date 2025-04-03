@@ -1,0 +1,6 @@
+@Shortner.Redirect_HostAddress = http://localhost:5197
+
+GET {{Shortner.Redirect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
